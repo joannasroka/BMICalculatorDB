@@ -15,3 +15,4 @@ Simple BMI Calculator Android application using a **Room** database.
 
 ### History of the last 10 results
 <img src="screenshots/8.jpg" height="500">
+<img src="screenshots/10.jpg" height="500">
