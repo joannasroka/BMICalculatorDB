@@ -1,5 +1,5 @@
 # BMICalculatorDB
-Simple BMI Calculator Android application using a **Room** database.
+Simple BMI Calculator Android application using a **Room** database. Tested on Xiaomi Redmi 6.
 
 ### Calculating BMI result in metric or imperial units
 <img src="screenshots/1.jpg" height="500">
